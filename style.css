@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600&family=Red+Hat+Display:wght@500;700;900&family=Roboto:wght@300;400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans','Roboto', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-phones img{
+    width: 40rem;
+}
+
+.section-login{
+    display: grid;
+}
+
+.section-login input{
+    background-color: #d3d3d3;
+    padding: 0.7rem;
+}
+
+.section-login input,button{
+    border: none;
+    border-radius: 3px;
+    margin: 1rem 0;
+}
+
+.section-login button{
+    background-color: #1282cc;
+    color: #fff;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+.section-login button:hover{
+    opacity: 0.9;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
+
+.footer-login{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    margin: 1rem 0;
+}
+
+.footer-login figure:hover{
+    cursor: pointer;
+}
+
+.btn-footer-login{
+    display: flex;
+    gap: 0.5rem;
+    margin: 1rem 0;
+}
+
+.footer-login img{
+    width: 8rem;
+}
