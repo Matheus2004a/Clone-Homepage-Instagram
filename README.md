@@ -1,10 +1,13 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Clone Homepage Instagram 🙃
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Projeto desenvolvido no bootcamp HTML Web Developer da DIO (Digital Innovation One).
 
-### Os requisitos são:
+### Os requisitos para desenvolver o projeto foram:
 
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* CSS Flexbox
 
-## 🚀 Let's code! 🚀
+Como adicionais aproveitei pra utilizar Grid Layout 😁.
+
+## Let's code! 🚀👨‍💻
